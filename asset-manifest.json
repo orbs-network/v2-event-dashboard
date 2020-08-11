@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "https://orbs-netowrk.github.io/v2-events-dashbaord/static/css/main.d4b27514.chunk.css",
-    "main.js": "https://orbs-netowrk.github.io/v2-events-dashbaord/static/js/main.74f880bd.chunk.js",
-    "main.js.map": "https://orbs-netowrk.github.io/v2-events-dashbaord/static/js/main.74f880bd.chunk.js.map",
-    "runtime-main.js": "https://orbs-netowrk.github.io/v2-events-dashbaord/static/js/runtime-main.1f72dddf.js",
-    "runtime-main.js.map": "https://orbs-netowrk.github.io/v2-events-dashbaord/static/js/runtime-main.1f72dddf.js.map",
-    "static/js/2.539fb6b8.chunk.js": "https://orbs-netowrk.github.io/v2-events-dashbaord/static/js/2.539fb6b8.chunk.js",
-    "static/js/2.539fb6b8.chunk.js.map": "https://orbs-netowrk.github.io/v2-events-dashbaord/static/js/2.539fb6b8.chunk.js.map",
-    "index.html": "https://orbs-netowrk.github.io/v2-events-dashbaord/index.html",
-    "precache-manifest.8c9b19e8c05eeac8533d472a87dca5dc.js": "https://orbs-netowrk.github.io/v2-events-dashbaord/precache-manifest.8c9b19e8c05eeac8533d472a87dca5dc.js",
-    "service-worker.js": "https://orbs-netowrk.github.io/v2-events-dashbaord/service-worker.js",
-    "static/css/main.d4b27514.chunk.css.map": "https://orbs-netowrk.github.io/v2-events-dashbaord/static/css/main.d4b27514.chunk.css.map",
-    "static/js/2.539fb6b8.chunk.js.LICENSE.txt": "https://orbs-netowrk.github.io/v2-events-dashbaord/static/js/2.539fb6b8.chunk.js.LICENSE.txt"
+    "main.css": "https://orbs-netowrk.github.io/v2-events-dashboard/static/css/main.d4b27514.chunk.css",
+    "main.js": "https://orbs-netowrk.github.io/v2-events-dashboard/static/js/main.d5960fa1.chunk.js",
+    "main.js.map": "https://orbs-netowrk.github.io/v2-events-dashboard/static/js/main.d5960fa1.chunk.js.map",
+    "runtime-main.js": "https://orbs-netowrk.github.io/v2-events-dashboard/static/js/runtime-main.907a292e.js",
+    "runtime-main.js.map": "https://orbs-netowrk.github.io/v2-events-dashboard/static/js/runtime-main.907a292e.js.map",
+    "static/js/2.d47b2875.chunk.js": "https://orbs-netowrk.github.io/v2-events-dashboard/static/js/2.d47b2875.chunk.js",
+    "static/js/2.d47b2875.chunk.js.map": "https://orbs-netowrk.github.io/v2-events-dashboard/static/js/2.d47b2875.chunk.js.map",
+    "index.html": "https://orbs-netowrk.github.io/v2-events-dashboard/index.html",
+    "precache-manifest.a14d2930f2369b7e50c4e869ef5df216.js": "https://orbs-netowrk.github.io/v2-events-dashboard/precache-manifest.a14d2930f2369b7e50c4e869ef5df216.js",
+    "service-worker.js": "https://orbs-netowrk.github.io/v2-events-dashboard/service-worker.js",
+    "static/css/main.d4b27514.chunk.css.map": "https://orbs-netowrk.github.io/v2-events-dashboard/static/css/main.d4b27514.chunk.css.map",
+    "static/js/2.d47b2875.chunk.js.LICENSE.txt": "https://orbs-netowrk.github.io/v2-events-dashboard/static/js/2.d47b2875.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.1f72dddf.js",
-    "static/js/2.539fb6b8.chunk.js",
+    "static/js/runtime-main.907a292e.js",
+    "static/js/2.d47b2875.chunk.js",
     "static/css/main.d4b27514.chunk.css",
-    "static/js/main.74f880bd.chunk.js"
+    "static/js/main.d5960fa1.chunk.js"
   ]
 }
